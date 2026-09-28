@@ -3,8 +3,6 @@
 DNA メチル化アレイ（Illumina 450K）の前処理から、エピシグネチャーによる照合までを R/Bioconductor の [minfi](https://bioconductor.org/packages/minfi/) で一通り行うコードです。
 公開データ [GSE97362](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE97362)（Kabuki 症候群・CHARGE 症候群、Butcher et al. 2017）を例に、KMT2D と CHD7 の 2 本のシグネチャーを作り、手元の 1 検体がどちらに当てはまるかを照合するところまでを再現します。
 
-実験医学 増刊号（羊土社、2027 年 1 月刊行予定）の総説の補足コードです。
-
 > 教育・研究用のコードです。臨床判断には、検証された検査を用いてください。
 
 ## 解析の流れ
