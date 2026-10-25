@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "このコードを使った場合は、以下と、解析に用いたデータ（GSE97362）・パッケージの原著を引用してください。"
+title: "episignature-minfi-GSE97362: DNA methylation array preprocessing and episignature analysis with minfi"
+authors:
+  - family-names: Taniguchi
+    given-names: Kosuke
+    affiliation: "Gunma University Graduate School of Medicine"
+version: 0.1.0
+license: MIT
+keywords:
+  - DNA methylation
+  - episignature
+  - minfi
+  - Illumina 450K
+  - Kabuki syndrome
+  - CHARGE syndrome

@@ -1,0 +1,22 @@
+# データ（各自 GEO から取得する。README.md だけは含める）
+data/*
+!data/README.md
+
+# 解析結果と、自分の環境だけの設定
+results/
+config.local.R
+
+# 大きな中間ファイル（念のため）
+*.rds
+*.csv.gz
+*.idat
+*.idat.gz
+*.tar
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
